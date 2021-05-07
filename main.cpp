@@ -1,5 +1,6 @@
 #include <stdio.h>
 using namespace std;
+//Это учебная программа
 int main() {
 	int firstNum, secondNum;
 	cout << "Enter the first number: ";
